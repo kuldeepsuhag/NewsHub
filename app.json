@@ -1,0 +1,12 @@
+{
+  "name": "newsHub",
+  "displayName": "newsHub",
+  "expo": {
+    "name": "newsHub",
+    "slug": "newsHub",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
